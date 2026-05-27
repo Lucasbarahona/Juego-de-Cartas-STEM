@@ -1,7 +1,5 @@
 # 🧬 Memoria STEM
 
-Un juego de memoria interactivo con conceptos científicos, diseñado para portafolios STEM.
-
 ---
 
 ## Demo
